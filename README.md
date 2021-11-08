@@ -53,12 +53,13 @@ Applying Random Survival Forest yielded an `R^2` value of 0.65. Later, applying 
 In addition to `R^2` analysis, the survival function is plotted against the time in days, and it agrees with the mathematical behavior and python implementation of Random Survival Forest.
 
 COBRA:
+![image](https://user-images.githubusercontent.com/14922339/140705220-c430000f-347f-434d-97aa-869ecc019812.png)
 
-![image](https://user-images.githubusercontent.com/50804314/140694209-2c29fe58-440c-408d-aa9f-b3fdf2fd473f.png)
-
+<!-- ![image](https://user-images.githubusercontent.com/50804314/140694209-2c29fe58-440c-408d-aa9f-b3fdf2fd473f.png)
+ -->
 Random Survival Forest:
+![image](https://user-images.githubusercontent.com/14922339/140705401-5f681711-289d-4c77-8a47-db3c9a146355.png)
 
-![image](https://user-images.githubusercontent.com/50804314/140694262-edf24fc5-a91d-4037-852a-2d2ce671a8df.png)
 
 
 ## Directory Tree:
