@@ -54,11 +54,14 @@ In addition to `R^2` analysis, the survival function is plotted against the time
 
 COBRA:
 
-![image](https://user-images.githubusercontent.com/50804314/140694209-2c29fe58-440c-408d-aa9f-b3fdf2fd473f.png)
+![image](https://user-images.githubusercontent.com/14922339/140705220-c430000f-347f-434d-97aa-869ecc019812.png)
 
+<!-- ![image](https://user-images.githubusercontent.com/50804314/140694209-2c29fe58-440c-408d-aa9f-b3fdf2fd473f.png)
+ -->
 Random Survival Forest:
 
-![image](https://user-images.githubusercontent.com/50804314/140694262-edf24fc5-a91d-4037-852a-2d2ce671a8df.png)
+![image](https://user-images.githubusercontent.com/14922339/140705401-5f681711-289d-4c77-8a47-db3c9a146355.png)
+
 
 
 ## Directory Tree:
@@ -108,7 +111,10 @@ MA691-COBRA-3
 
 5. Desmedt, Christine, et al. "Strong time dependence of the 76-gene prognostic signature for node-negative breast cancer patients in the TRANSBIG multicenter independent validation series." Clinical cancer research 13.11 (2007): 3207-3214.
 
-[Hazard Function](https://www.statisticshowto.com/hazard-function/)
-[Survuval Analysis](https://en.wikipedia.org/wiki/Survival_analysis)
-[Hazard and cumulative hazard plotting](https://www.itl.nist.gov/div898/handbook/apr/section2/apr222.htm)
-[Intuition for cumulative hazard function](https://stats.stackexchange.com/questions/60238/intuition-for-cumulative-hazard-function-survival-analysis/138185#:~:text=Cumulative%20hazard%20is%20integrating%20(instantaneous,hazard%20rate%20over%20ages%2Ftime.&text=Hazard%20rate%20is%20conditional%20on,try%20to%20accumulate%20mx.)
+6. [Hazard Function](https://www.statisticshowto.com/hazard-function/)
+
+7. [Survuval Analysis](https://en.wikipedia.org/wiki/Survival_analysis)
+ 
+8. [Hazard and cumulative hazard plotting](https://www.itl.nist.gov/div898/handbook/apr/section2/apr222.htm)
+
+9. [Intuition for cumulative hazard function](https://stats.stackexchange.com/questions/60238/intuition-for-cumulative-hazard-function-survival-analysis/138185)
