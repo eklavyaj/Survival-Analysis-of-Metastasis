@@ -97,3 +97,18 @@ MA691-COBRA-3
 |
 ```
 
+## References
+1. Biau, Gérard, et al. "COBRA: A combined regression strategy." Journal of Multivariate Analysis 146 (2016): 18-28.
+
+2. Hikichi, Shiori, Masahiro Sugimoto, and Masaru Tomita. "Correlation-centred variable selection of a gene expression signature to predict breast cancer metastasis." Scientific reports 10.1 (2020): 1-8.
+
+3. Wang, Yixin, et al. "Gene-expression profiles to predict distant metastasis of lymph-node-negative primary breast cancer." The Lancet 365.9460 (2005): 671-679.
+
+4. Ishwaran, Hemant, et al. "Random survival forests." The annals of applied statistics 2.3 (2008): 841-860.
+
+5. Desmedt, Christine, et al. "Strong time dependence of the 76-gene prognostic signature for node-negative breast cancer patients in the TRANSBIG multicenter independent validation series." Clinical cancer research 13.11 (2007): 3207-3214.
+
+[Hazard Function](https://www.statisticshowto.com/hazard-function/)
+[Survuval Analysis](https://en.wikipedia.org/wiki/Survival_analysis)
+[Hazard and cumulative hazard plotting](https://www.itl.nist.gov/div898/handbook/apr/section2/apr222.htm)
+[Intuition for cumulative hazard function](https://stats.stackexchange.com/questions/60238/intuition-for-cumulative-hazard-function-survival-analysis/138185#:~:text=Cumulative%20hazard%20is%20integrating%20(instantaneous,hazard%20rate%20over%20ages%2Ftime.&text=Hazard%20rate%20is%20conditional%20on,try%20to%20accumulate%20mx.)
