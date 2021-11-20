@@ -1,5 +1,8 @@
 # Survival Analysis of Distant Metastasis in Breast Cancer Patients
 
+## Disclaimer
+This work is for learning purposes only. The work can not be used for publications or commercial products etc. without mentor’s consent.
+
 ## Contents
 1. Objective
 2. Dataset
